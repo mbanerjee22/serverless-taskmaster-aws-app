@@ -5,7 +5,7 @@ const hello = async (event) => {
     statusCode: 200,
     body: JSON.stringify(
       {
-        message: "implemented serverless with aws app cicd logs goo",
+        message: "implemented serverless with aws app cicd logs ggs",
       },
       null,
       2
